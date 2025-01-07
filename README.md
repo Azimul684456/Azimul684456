@@ -1,10 +1,10 @@
 <br clear="both">
 
-<img align="right" height="150" src="https://i.ibb.co.com/gt3Hfpd/file-3-Yv-HPXt-Kdv-GKSS6m-J3o-U1-E.webp"  />
+<img align="left" height="150" src="https://i.ibb.co.com/gt3Hfpd/file-3-Yv-HPXt-Kdv-GKSS6m-J3o-U1-E.webp"  />
 
 ###
 
-<h3 align="center">Hi I'm Hasnat  👋</h3>
+<h3 align="left">Hi I'm Hasnat  👋</h3>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">About Me<br><br>I am a Full Stack Developer from Bangladesh, specializing in creating visually appealing and highly functional websites that deliver exceptional user experiences.</p>
+<p align="left">𝐀𝐛𝐨𝐮𝐭 𝐌𝐞<br><br>I am a Full Stack Developer from Bangladesh, specializing in creating visually appealing and highly functional websites that deliver exceptional user experiences.</p>
 
 ###
 
