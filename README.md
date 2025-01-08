@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://i.ibb.co.com/zbtm240/Whats-App-Image-2025-01-08-at-22-24-03-c2a762d5.jpg" style="width: 50%; max-width: 1200px;" alt="Profile Image" />
+  <img src="https://i.ibb.co.com/zbtm240/Whats-App-Image-2025-01-08-at-22-24-03-c2a762d5.jpg" style="width: 100%; max-width: 1200px; height: auto;" alt="Profile Image" />
 </div>
 
 ###
@@ -52,7 +52,7 @@
 
 <div align="left">
   <a href="https://www.facebook.com/hasnat.evan.733" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="" height="40" alt="facebook logo" />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   <a href="https://myaccount.google.com/?utm_source=chrome-profile-chooser&pli=1" target="_blank">
