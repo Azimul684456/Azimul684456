@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="150" src="https://i.ibb.co.com/gt3Hfpd/file-3-Yv-HPXt-Kdv-GKSS6m-J3o-U1-E.webp" />
+<img align="right" src="https://i.ibb.co.com/gt3Hfpd/file-3-Yv-HPXt-Kdv-GKSS6m-J3o-U1-E.webp" style="width: 100%; height: auto;" />
 
 <h3 align="left">Hi I'm Hasnat 👋</h3>
 
